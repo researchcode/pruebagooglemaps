@@ -1,197 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-<Document>
-<Placemark>
-<name>"Dennis Gabriela Coy Calderón"</name>
-<description>Lugar Nacimiento
-"Estudiante de matemáticas y Analista de Inteligencia de Negocios en Liberty Seguros"</description>
-<Point>
-<coordinates>-74.08175,4.60971,2640</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Luz Mary Calderón Vargas"</name>
-<description>Lugar Nacimiento
-"Docente de Biología y Química, Bióloga de la Universidad Javeriana, madre de dos hijos"</description>
-<Point>
-<coordinates>-74.08175,4.60971,2640</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Elizabeth Vargas Vargas"</name>
-<description>Lugar Nacimiento
-"Empresaria de la industria automotriz"</description>
-<Point>
-<coordinates>-75.68111,4.53389,1551</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Elizabeth Vargas Vargas"</name>
-<description>Lugar Fallecimiento
-"Empresaria de la industria automotriz"</description>
-<Point>
-<coordinates>-74.08175,4.60971,2640</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Flor Maria Vargas Dueñas"</name>
-<description>Lugar Nacimiento
-"Empresaria en finca raíz"</description>
-<Point>
-<coordinates>-75.68111,4.53389,1551</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Flor Maria Vargas Dueñas"</name>
-<description>Lugar Fallecimiento
-"Empresaria en finca raíz"</description>
-<Point>
-<coordinates>-74.08175,4.60971,2640</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Julio Vargas"</name>
-<description>Lugar Nacimiento
-"Coronel del ejército colombiano"</description>
-<Point>
-<coordinates>-75.68111,4.53389,1551</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Julio Vargas"</name>
-<description>Lugar Fallecimiento
-"Coronel del ejército colombiano"</description>
-<Point>
-<coordinates>-74.08175,4.60971,2640</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Pedro Pablo Calderón Vacca"</name>
-<description>Lugar Nacimiento
-"Empresario de la industria automotriz"</description>
-<Point>
-<coordinates>-73.4318,4.98458,1670</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Reinalda Vacca"</name>
-<description>Lugar Nacimiento
-"Agricultora"</description>
-<Point>
-<coordinates>-73.4318,4.98458,1670</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Reinalda Vacca"</name>
-<description>Lugar Fallecimiento
-"Agricultora"</description>
-<Point>
-<coordinates>-73.4318,4.98458,1670</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"José Calderón"</name>
-<description>Lugar Nacimiento
-"Agricultor"</description>
-<Point>
-<coordinates>-73.4318,4.98458,1670</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"José Calderón"</name>
-<description>Lugar Fallecimiento
-"Agricultor"</description>
-<Point>
-<coordinates>-73.4318,4.98458,1670</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Miguel Antonio Coy Gonzalez"</name>
-<description>Lugar Nacimiento
-"Docente de Biología y Química, Biólogo de la Universidad Javeriana"</description>
-<Point>
-<coordinates>-74.08175,4.60971,2640</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Julieta Gonzalez De Coy"</name>
-<description>Lugar Nacimiento
-"Empresaria en la industria del transporte y turismo"</description>
-<Point>
-<coordinates>-73.16981,7.0682,701</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Sara Perez"</name>
-<description>Lugar Nacimiento
-"Agricultora"</description>
-<Point>
-<coordinates>-73.167,7.067,701</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Sara Perez"</name>
-<description>Lugar Fallecimiento
-"Agricultora"</description>
-<Point>
-<coordinates>-73.167,7.067,701</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Juan Gonzalez"</name>
-<description>Lugar Nacimiento
-"Agricultor"</description>
-<Point>
-<coordinates>-73.167,7.067,701</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Juan Gonzalez"</name>
-<description>Lugar Fallecimiento
-"Agricultor"</description>
-<Point>
-<coordinates>-73.167,7.067,701</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Miguel Coy Gomez"</name>
-<description>Lugar Nacimiento
-"Empresario en la industria metalmecáninca"</description>
-<Point>
-<coordinates>-73.4318,4.98458,1670</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Andrea Gomez"</name>
-<description>Lugar Nacimiento
-"Agricultora"</description>
-<Point>
-<coordinates>-73.4318,4.98458,1670</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Andrea Gomez"</name>
-<description>Lugar Fallecimiento
-"Agricultora"</description>
-<Point>
-<coordinates>-73.4318,4.98458,1670</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Fernando Coy"</name>
-<description>Lugar Nacimiento
-"Agricultor"</description>
-<Point>
-<coordinates>-73.4318,4.98458,1670</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>"Fernando Coy"</name>
-<description>Lugar Fallecimiento
-"Agricultor"</description>
-<Point>
-<coordinates>-73.4318,4.98458,1670</coordinates>
-</Point>
-</Placemark>
-</Document>
+  <Document>
+    <name>KmlFile</name>
+    <Style id="west_campus_style">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>$[video]</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Google West Campus 1</name>
+      <styleUrl>#west_campus_style</styleUrl>
+      <ExtendedData>
+        <Data name="video">
+          <value><![CDATA[<iframe width="480" height="360"
+            src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
+            allowfullscreen></iframe><br><br>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-74.08175,4.60971,2640</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Google West Campus 2</name>
+      <styleUrl>#west_campus_style</styleUrl>
+      <ExtendedData>
+        <Data name="video">
+          <value><![CDATA[<iframe width="480" height="360"
+            src="https://www.youtube.com/embed/nb4gvrNrDWw" frameborder="0"
+            allowfullscreen></iframe><br><br>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-75.68111,4.53389,1551</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Google West Campus 3</name>
+      <styleUrl>#west_campus_style</styleUrl>
+      <ExtendedData>
+        <Data name="video">
+          <value><![CDATA[<iframe width="480" height="360"
+            src="https://www.youtube.com/embed/0hhiEjf7_NA" frameborder="0"
+            allowfullscreen></iframe><br><br>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-73.4318,4.98458,1670</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
 </kml>
