@@ -14,7 +14,7 @@
       </BalloonStyle>
     </Style>
     <Placemark>
-      <name>Google West Campus 1</name>
+      <name>PRUEBA 1</name>
       <styleUrl>#west_campus_style</styleUrl>
       <ExtendedData>
         <Data name="video">
@@ -28,7 +28,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Google West Campus 2</name>
+      <name>PRUEBA 2</name>
       <styleUrl>#west_campus_style</styleUrl>
       <ExtendedData>
         <Data name="video">
@@ -42,7 +42,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Google West Campus 3</name>
+      <name>PRUEBA 3</name>
       <styleUrl>#west_campus_style</styleUrl>
       <ExtendedData>
         <Data name="video">
